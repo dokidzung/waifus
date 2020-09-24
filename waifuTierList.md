@@ -119,6 +119,8 @@ Yui Kanakura                                               | <img src="waifuImag
 Saki Kawasaki                                              | <img src="waifuImages/saki kawasaki.jpg" height="80" />
 Ruri Miyamoto                                              | <img src="waifuImages/ruri miyamoto.jpg" height="80" />
 Hanako Koyanagi                                            | <img src="waifuImages/hanako koyanagi.jpg" height="80" />
+Neko Fujinomiya                                            | <img src="waifuImages/neko fujinomiya.jpg" height="80" />
+Aki Adagaki                                                | <img src="waifuImages/aki adagaki.jpg" height="80" />
 Katara                                                     | <img src="waifuImages/katara.jpg" height="80" />
 Nia Teppelin                                               | <img src="waifuImages/nia teppelin.jpg" height="80" />
 Darkness                                                   | <img src="waifuImages/darkness.jpg" height="80" />
@@ -194,6 +196,7 @@ Asia Argento                                               | <img src="waifuImag
 Irina Shidou                                               | <img src="waifuImages/irina shidou.jpg" height="80" />
 Koneko Toujou                                              | <img src="waifuImages/koneko toujou.jpg" height="80" />
 Xenovia Quarta                                             | <img src="waifuImages/xenovia quarta.jpg" height="80" />
+Yoshino Kowai                                              | <img src="waifuImages/yoshino kowai.jpg" height="80" />
 
 ## D-tier
 <img width="400" /> Name <img width="400" />               |           Picture
