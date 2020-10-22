@@ -144,6 +144,7 @@ Yuzuki Shiraishi                                           | <img src="waifuImag
 Hinata Miyake                                              | <img src="waifuImages/hinata miyake.jpg" height="80" />
 Shirase Kobuchizawa                                        | <img src="waifuImages/shirase kobuchizawa.jpg" height="80" />
 Mari Tamaki                                                | <img src="waifuImages/mari tamaki.jpg" height="80" />
+Rikka Takanashi                                            | <img src="waifuImages/rikka takanashi.jpg" height="80" />
 Isla                                                       | <img src="waifuImages/isla.jpg" height="80" />
 Fuko Ibuki                                                 | <img src="waifuImages/fuko ibuki.jpg" height="80" />
 Sumi Sakurasawa                                            | <img src="waifuImages/sumi sakurasawa.jpg" height="80" />
@@ -197,6 +198,7 @@ Irina Shidou                                               | <img src="waifuImag
 Koneko Toujou                                              | <img src="waifuImages/koneko toujou.jpg" height="80" />
 Xenovia Quarta                                             | <img src="waifuImages/xenovia quarta.jpg" height="80" />
 Yoshino Kowai                                              | <img src="waifuImages/yoshino kowai.jpg" height="80" />
+Kumin Tsuyuri                                              | <img src="waifuImages/kumin tsuyuri.jpg" height="80" />
 
 ## D-tier
 <img width="400" /> Name <img width="400" />               |           Picture
@@ -230,6 +232,8 @@ Kanao Tsuyuri                                              | <img src="waifuImag
 Kofuku                                                     | <img src="waifuImages/kofuku.jpg" height="80" />
 Moeka Kiryu                                                | <img src="waifuImages/moeka kiryu.jpg" height="80" />
 Eris                                                       | <img src="waifuImages/eris.jpg" height="80" />
+Sanae Dekomori                                             | <img src="waifuImages/sanae dekomori" height="80" />
+Satone Shichimiya                                          | <img src="waifuImages/satone shichimiya" height="80" />
 Aoi Kanzaki                                                | <img src="waifuImages/aoi kanzaki.jpg" height="80" />
 Iki Hiyori                                                 | <img src="waifuImages/iki hiyori.jpg" height="80" />
 Milly Ashford                                              | <img src="waifuImages/milly ashford.jpg" height="80" />
