@@ -1,20 +1,20 @@
 # DEGENERATE WAIFU TIER LIST
 
 ## S-tier
-<img width="400" /> Name <img width="400" />                |           Picture
-------------------------------------------------------------|----------------------------------------------------------------
-Kaguya Shinomiya                                            | <img src="waifuImages/kaguya shinomiya.jpg" height="80" />
-Mai Sakurajima (T-Kaguya Shinomiya)                         | <img src="waifuImages/mai sakurajima.jpg" height="80" />
-Kurisu Makise                                               | <img src="waifuImages/kurisu makise.jpg" height="80" />
-Hitagi Senjougahara  (T - Makise Kurisu)                    | <img src="waifuImages/hitagi senjougahara.jpg" height="80" />
-Iroha Isshiki                                               | <img src="waifuImages/iroha isshiki.jpg" height="80" />
-Mayoi Hachikuji                                             | <img src="waifuImages/mayoi hachikuji.jpg" height="80" />
-Tomoe Koga                                                  | <img src="waifuImages/tomoe koga.jpg" height="80" />
-Chiziru Ichinose                                            | <img src="waifuImages/chizuru ichinose.jpg" height="80" />
-Ai Hayasaka                                                 | <img src="waifuImages/ai hayasaka.jpg" height="80" />
-Yui Yuigahama                                               | <img src="waifuImages/yui yuigahama.jpg" height="80" />
-Yukino Yukinoshita (T - Yui Yuigahama)                      | <img src="waifuImages/yukino yukinoshita.jpg" height="80" />
-Shinobu Oshino                                              | <img src="waifuImages/shinobu oshino.jpg" height="80" />
+<img width="400" /> Name <img width="400" />               |           Picture
+-----------------------------------------------------------|----------------------------------------------------------------
+Kaguya Shinomiya                                           | <img src="waifuImages/kaguya shinomiya.jpg" height="80" />
+Mai Sakurajima (T-Kaguya Shinomiya)                        | <img src="waifuImages/mai sakurajima.jpg" height="80" />
+Kurisu Makise                                              | <img src="waifuImages/kurisu makise.jpg" height="80" />
+Iroha Isshiki                                              | <img src="waifuImages/iroha isshiki.jpg" height="80" />
+Hitagi Senjougahara                                        | <img src="waifuImages/hitagi senjougahara.jpg" height="80" />
+Mayoi Hachikuji                                            | <img src="waifuImages/mayoi hachikuji.jpg" height="80" />
+Yui Yuigahama                                              | <img src="waifuImages/yui yuigahama.jpg" height="80" />
+Yukino Yukinoshita (T - Yui Yuigahama)                     | <img src="waifuImages/yukino yukinoshita.jpg" height="80" />
+Tomoe Koga                                                 | <img src="waifuImages/tomoe koga.jpg" height="80" />
+Ai Hayasaka                                                | <img src="waifuImages/ai hayasaka.jpg" height="80" />
+Chiziru Ichinose                                           | <img src="waifuImages/chizuru ichinose.jpg" height="80" />
+Shinobu Oshino                                             | <img src="waifuImages/shinobu oshino.jpg" height="80" />
 
 ## A-tier
 <img width="400" /> Name <img width="400" />               |           Picture
@@ -54,7 +54,7 @@ Chitoge Kirisaki                                           | <img src="waifuImag
 Itsuki Nakano                                              | <img src="waifuImages/itsuki nakano.jpg" height="80" />
 Nino Nakano (T - Itsuki Nakano)                            | <img src="waifuImages/nino nakano.jpg" height="80" />
 Ayame Himuro                                               | <img src="waifuImages/ayame himuro.jpg" height="80" />
-Kotonoha Kanade                                            | <img src="waifuImges/kotonoha kanade.jpg" height="80" />
+Kotonoha Kanade                                            | <img src="waifuImages/kotonoha kanade.jpg" height="80" />
 
 ## B-tier
 <img width="400" /> Name <img width="400" />               |           Picture
