@@ -53,6 +53,8 @@ Kosaki Onodera                                             | <img src="waifuImag
 Chitoge Kirisaki                                           | <img src="waifuImages/chitoge kirisaki.jpg" height="80" />
 Itsuki Nakano                                              | <img src="waifuImages/itsuki nakano.jpg" height="80" />
 Nino Nakano (T - Itsuki Nakano)                            | <img src="waifuImages/nino nakano.jpg" height="80" />
+Ayame Himuro                                               | <img src="waifuImages/ayame himuro.jpg" height="80" />
+Kotonoha Kanade                                            | <img src="waifuImges/kotonoha kanade.jpg" height="80" />
 
 ## B-tier
 <img width="400" /> Name <img width="400" />               |           Picture
@@ -176,7 +178,7 @@ Sasha Blouse                                               | <img src="waifuImag
 Suruga Kanbaru                                             | <img src="waifuImages/suruga kanbaru.jpg" height="80" />
 Yotsugi Ononoki                                            | <img src="waifuImages/yotsugi ononoki.jpg" height="80" />
 Tohru Honda                                                | <img src="waifuImages/tohru honda.jpg" height="80" />
-Kyoka Jiro                                                  | <img src="waifuImages/kyoka jiro.jpg" height="80" />
+Kyoka Jiro                                                 | <img src="waifuImages/kyoka jiro.jpg" height="80" />
 Yoko Littner                                               | <img src="waifuImages/yoko littner.jpg" height="80" />
 Ritsu Tainaka                                              | <img src="waifuImages/ritsu tainaka.jpg" height="80" />
 Yui                                                        | <img src="waifuImages/yui.jpg" height="80" />
@@ -185,6 +187,7 @@ Tae Takemi                                                 | <img src="waifuImag
 Yuri Nakamura                                              | <img src="waifuImages/yuri nakamura.jpg" height="80" />
 Momo Yaoyorozu                                             | <img src="waifuImages/momo yaoyorozu.jpg" height="80" />
 Nejire Hado                                                | <img src="waifuImages/nejire hado.jpg" height="80" />
+Ena Ibarada                                                | <img src="waifuImages/ena ibarada.jpg" height="80" />
 Nona                                                       | <img src="waifuImages/nona.jpg" height="80" />
 Mei Hatsume                                                | <img src="waifuImages/mei hatsume.jpg" height="80" />
 Ritsu                                                      | <img src="waifuImages/ritsu.jpg" height="80" />
