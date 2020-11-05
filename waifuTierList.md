@@ -36,6 +36,7 @@ Karen Araragi                                              | <img src="waifuImag
 Kaede Kayano                                               | <img src="waifuImages/kaede kayano.jpg" height="80" />
 Rise Kujikawa                                              | <img src="waifuImages/rise kujikawa.jpg" height="80" />
 Yukiko Amagi                                               | <img src="waifuImages/yukiko amagi.jpg" height="80" />
+Kotonoha Kanade                                            | <img src="waifuImages/kotonoha kanade.jpg" height="80" />
 C.C                                                        | <img src="waifuImages/c.c.jpg" height="80" />
 2B                                                         | <img src="waifuImages/2b.jpg" height="80" />
 A2                                                         | <img src="waifuImages/a2.jpg" height="80" />
@@ -54,7 +55,6 @@ Chitoge Kirisaki                                           | <img src="waifuImag
 Itsuki Nakano                                              | <img src="waifuImages/itsuki nakano.jpg" height="80" />
 Nino Nakano (T - Itsuki Nakano)                            | <img src="waifuImages/nino nakano.jpg" height="80" />
 Ayame Himuro                                               | <img src="waifuImages/ayame himuro.jpg" height="80" />
-Kotonoha Kanade                                            | <img src="waifuImages/kotonoha kanade.jpg" height="80" />
 
 ## B-tier
 <img width="400" /> Name <img width="400" />               |           Picture
