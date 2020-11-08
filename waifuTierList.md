@@ -14,12 +14,14 @@ Yukino Yukinoshita (T - Yui Yuigahama)                     | <img src="waifuImag
 Tomoe Koga                                                 | <img src="waifuImages/tomoe koga.jpg" height="80" />
 Ai Hayasaka                                                | <img src="waifuImages/ai hayasaka.jpg" height="80" />
 Chiziru Ichinose                                           | <img src="waifuImages/chizuru ichinose.jpg" height="80" />
-Shinobu Oshino                                             | <img src="waifuImages/shinobu oshino.jpg" height="80" />
+Mafuyu Kirisu                                              | <img src="waifuImages/mafuyu kirisu.jpg" height="80" />
+Kasumi Yoshizawa                                           | <img src="waifuImages/sumire yoshizawa.jpg" height="80" />
 
 ## A-tier
 <img width="400" /> Name <img width="400" />               |           Picture
 -----------------------------------------------------------|----------------------------------------------------------------
-Kasumi Yoshizawa                                           | <img src="waifuImages/sumire yoshizawa.jpg" height="80" />
+Fumino Furuhashi                                           | <img src="waifuImages/fumino furuhashi.jpg" height="80" />
+Shinobu Oshino                                             | <img src="waifuImages/shinobu oshino.jpg" height="80" />
 Sakura Yamauchi                                            | <img src="waifuImages/sakura yamauchi.jpg" height="80" />
 Chizuru Hishiro                                            | <img src="waifuImages/chizuru hishiro.jpg" height="80" />
 Komachi Hikigaya                                           | <img src="waifuImages/komachi hikigaya.jpg" height="80" />
@@ -37,6 +39,7 @@ Kaede Kayano                                               | <img src="waifuImag
 Rise Kujikawa                                              | <img src="waifuImages/rise kujikawa.jpg" height="80" />
 Yukiko Amagi                                               | <img src="waifuImages/yukiko amagi.jpg" height="80" />
 Kotonoha Kanade                                            | <img src="waifuImages/kotonoha kanade.jpg" height="80" />
+Asumi Kominami                                             | <img src="waifuImages/asumi kominami.jpg" height="80" />
 C.C                                                        | <img src="waifuImages/c.c.jpg" height="80" />
 2B                                                         | <img src="waifuImages/2b.jpg" height="80" />
 A2                                                         | <img src="waifuImages/a2.jpg" height="80" />
@@ -113,11 +116,14 @@ Haru Nonaka                                                | <img src="waifuImag
 Mini Yaemori                                               | <img src="waifuImages/mini yaemori.jpg" height="80" />
 Seishiro Tsugumi                                           | <img src="waifuImages/seishiro tsugumi.jpg" height="80" />
 Narumi Momose                                              | <img src="waifuImages/narumi momose.jpg" height="80" />
+Sawako Sekijou                                             | <img src="waifuImages/sawako sekijou.jpg" height="80" />
+Uruka Takemoto                                             | <img src="waifuImages/uruka takemoto" height="80" />
 
 ## C-tier
 <img width="400" /> Name <img width="400" />               |           Picture
 -----------------------------------------------------------|----------------------------------------------------------------
 Yui Kanakura                                               | <img src="waifuImages/yui kanakura.jpg" height="80" />
+Miharu Kirisu                                              | <img src="waifuImages/miharu kirisu.jpg" height="80" />
 Saki Kawasaki                                              | <img src="waifuImages/saki kawasaki.jpg" height="80" />
 Ruri Miyamoto                                              | <img src="waifuImages/ruri miyamoto.jpg" height="80" />
 Hanako Koyanagi                                            | <img src="waifuImages/hanako koyanagi.jpg" height="80" />
@@ -147,6 +153,7 @@ Hinata Miyake                                              | <img src="waifuImag
 Shirase Kobuchizawa                                        | <img src="waifuImages/shirase kobuchizawa.jpg" height="80" />
 Mari Tamaki                                                | <img src="waifuImages/mari tamaki.jpg" height="80" />
 Rikka Takanashi                                            | <img src="waifuImages/rikka takanashi.jpg" height="80" />
+Ogata Rizu                                                 | <img src="waifuImages/ogata rizu.jpg" height="80" />
 Isla                                                       | <img src="waifuImages/isla.jpg" height="80" />
 Fuko Ibuki                                                 | <img src="waifuImages/fuko ibuki.jpg" height="80" />
 Sumi Sakurasawa                                            | <img src="waifuImages/sumi sakurasawa.jpg" height="80" />
