@@ -15,11 +15,11 @@ Tomoe Koga                                                 | <img src="waifuImag
 Ai Hayasaka                                                | <img src="waifuImages/ai hayasaka.jpg" height="80" />
 Chiziru Ichinose                                           | <img src="waifuImages/chizuru ichinose.jpg" height="80" />
 Mafuyu Kirisu                                              | <img src="waifuImages/mafuyu kirisu.jpg" height="80" />
-Kasumi Yoshizawa                                           | <img src="waifuImages/sumire yoshizawa.jpg" height="80" />
 
 ## A-tier
 <img width="400" /> Name <img width="400" />               |           Picture
 -----------------------------------------------------------|----------------------------------------------------------------
+Kasumi Yoshizawa                                           | <img src="waifuImages/sumire yoshizawa.jpg" height="80" />
 Fumino Furuhashi                                           | <img src="waifuImages/fumino furuhashi.jpg" height="80" />
 Shinobu Oshino                                             | <img src="waifuImages/shinobu oshino.jpg" height="80" />
 Sakura Yamauchi                                            | <img src="waifuImages/sakura yamauchi.jpg" height="80" />
